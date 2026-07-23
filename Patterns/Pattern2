@@ -3,6 +3,7 @@ using namespace std;
 class Solution {
 public:
     void pattern2(int n) {
+    int i,j;
         for(i=1;i<=n;i++){
             for(j=1;j<=i;j++){
                 cout<<"*";
@@ -16,6 +17,6 @@ int main(){
     int i;
     cout<<"enter the number";
     cin>>i;
-    obj.pattern1(i);
+    obj.pattern2(i);
     return 0;
 }
