@@ -1,0 +1,56 @@
+# 📚 DSA Solutions — Rakshitha T
+
+> Solving the Striver A2Z DSA Sheet to build strong algorithmic foundations.  
+> 🎓 Final Year CSE Student | BGS Institute of Technology (BGSIT) | 2027
+
+---
+
+## 🗂️ Progress Tracker
+
+| # | Topic | Status |
+|---|-------|--------|
+| 01 | Basics (Patterns, Math, Recursion) | 🔄 In Progress |
+| 02 | Sorting Techniques | ⏳ Upcoming |
+| 03 | Arrays | ⏳ Upcoming |
+| 04 | Binary Search | ⏳ Upcoming |
+| 05 | Strings | ⏳ Upcoming |
+| 06 | Linked Lists | ⏳ Upcoming |
+| 07 | Recursion and Backtracking | ⏳ Upcoming |
+| 08 | Bit Manipulation | ⏳ Upcoming |
+| 09 | Stack and Queue | ⏳ Upcoming |
+| 10 | Sliding Window | ⏳ Upcoming |
+| 11 | Heaps | ⏳ Upcoming |
+| 12 | Greedy Algorithms | ⏳ Upcoming |
+| 13 | Binary Trees | ⏳ Upcoming |
+| 14 | Binary Search Trees | ⏳ Upcoming |
+| 15 | Graphs | ⏳ Upcoming |
+| 16 | Dynamic Programming | ⏳ Upcoming |
+| 17 | Tries | ⏳ Upcoming |
+
+---
+
+dsa_solutions/
+├── 01-Basics/
+│ ├── Patterns/
+│ └── Basic-Math/
+├── 02-Sorting/
+├── 03-Arrays/
+└── README.md
+## 📁 Repository Structure
+
+---
+
+## 🛠️ Language Used
+
+- Python / C++
+
+---
+
+## 🔗 Resources
+
+- [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+- [My Cyber Security Portfolio](https://github.com/raksht/Cyber-Portfolio)
+
+---
+
+*Consistency over perfection — one problem at a time.*
