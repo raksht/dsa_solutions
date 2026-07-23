@@ -30,8 +30,8 @@
 ---
 
 dsa_solutions/
-├── 01Patterns/
-├── 02Basic-Math/
+├── 01-Patterns/
+├── 02-Basic-Math/
 ├── 03-Sorting/
 ├── 04-Arrays/
 └── README.md
