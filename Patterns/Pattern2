@@ -1,0 +1,20 @@
+#include<iostream>
+class Solution {
+public:
+    void pattern2(int n) {
+        for(i=1;i<=n;i++){
+            for(j=1;j<=i;j++){
+                cout<<"*";
+            }
+        cout<<endl;
+        }
+    }
+};
+int main(){
+    Solution obj;
+    int i;
+    cout<<"enter the number";
+    cin>>i;
+    obj.pattern1(i);
+    return 0;
+}
