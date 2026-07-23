@@ -17,6 +17,6 @@ int main(){
     int i;
     cout<<"enter the number";
     cin>>i;
-    obj.pattern1(i);
+    obj.pattern5(i);
     return 0;
 }
